@@ -83,6 +83,29 @@ export default function WeatherApp() {
           </div>
         </div>
       )}
+
+      <footer className="mt-3">
+        This project was coded by{" "}
+        <a href="https://github.com/Sarita368" target="_blank" rel="noreferrer">
+          Sara S
+        </a>{" "}
+        and is open-sourced on {" "}
+        <a
+          href="https://github.com/Sarita368/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>{" "}
+        and hosted on{" "}
+        <a
+          href=""
+          target="_blank"
+          rel="noreferrer"
+        >
+           Netlify
+        </a>
+      </footer>
     </div>
   );
 }

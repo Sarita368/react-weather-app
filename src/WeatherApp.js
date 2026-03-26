@@ -83,8 +83,7 @@ export default function WeatherApp() {
           </div>
         </div>
       )}
-
-      <footer className="mt-3">
+    <footer className="mt-3">
         This project was coded by{" "}
         <a href="https://github.com/Sarita368" target="_blank" rel="noreferrer">
           Sara S
@@ -109,3 +108,4 @@ export default function WeatherApp() {
     </div>
   );
 }
+

@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "ajv": "^6.12.6",
+    "ajv": "6.12.6",
     "ajv-keywords": "3.5.2",
     "axios": "1.13.6",
     "react": "^18.2.0",
@@ -29,12 +29,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "overrides": {
-    "ajv": "6.12.6",
-    "ajv-keywords": "3.5.2"
-  },
-  "resolutions": {
-    "ajv": "6.12.6"
-  }
+  ]
 }

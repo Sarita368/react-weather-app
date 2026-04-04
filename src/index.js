@@ -10,7 +10,6 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <div className="App">
-      <h1>Weather App</h1>
       <WeatherApp />
     </div>
   </StrictMode>
